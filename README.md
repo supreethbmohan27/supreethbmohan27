@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Supreeth 👋
 
-<!--
-**supreethbmohan27/supreethbmohan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Data Science @ UMass Dartmouth  
+💼 Data Engineer with 4+ years experience  
+🤖 AI/ML Enthusiast | GenAI | Deep Learning  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python, SQL, Spark
+- AWS (S3, Glue, Redshift, Lambda)
+- Snowflake, Airflow, dbt
+- TensorFlow, PyTorch
+- OpenAI, LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Brain Tumor Segmentation (3D U-Net)
+- AutoGPT Workflow Automation
+- AWS Data Pipeline (ETL)
+- Sign Language Detection (CNN)
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/supreeth2798
+- Email: supreeth2798@gmail.com
